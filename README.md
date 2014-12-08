@@ -3,7 +3,9 @@
 # Easy Learning
 ![Leifeng]  
 <-- 我们只做搬运工！   
-<-- 
+<-- 每个推荐都经过雷锋同学亲自尝试 ！    
+<-- 最小白学习资料， 0 0 0基础学习！ 
+<-- 我们的目标是：没有学不会！
 
 ## Version & Author
 Easy-Learning Beta, released on 8 December 2014.  
