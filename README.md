@@ -2,6 +2,8 @@
 
 # Easy Learning
 ![Leifeng]  
+<-- 我们只做搬运工！   
+<-- 
 
 ## Version & Author
 Easy-Learning Beta, released on 8 December 2014.  
