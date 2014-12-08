@@ -1,16 +1,13 @@
 
 
 # Easy Learning
----  
 ![Leifeng]  
 
 ## Version & Author
----
 Easy-Learning Beta, released on 8 December 2014.  
 Maintain by [Wine93] and [Li shaozhe].
 
 ## Table of Contents
-----
 * [Programming Languge](#programming-languge)  
     * [Python](#python)
     * [Shell](#shell)  
@@ -24,7 +21,6 @@ Maintain by [Wine93] and [Li shaozhe].
     * [Onlie Charting](#onlie-charting)  
 
 #Python
----  
 `Top1`  
 **Share：** [廖雪峰的官方网站-Python教程]  
 **Mr. Lei：**  [Wine93]  
@@ -38,7 +34,6 @@ Maintain by [Wine93] and [Li shaozhe].
 [Back to TOC](#table-of-contents)
 
 ## Github
---- 
 `Top1`  
 **Share：**  [廖雪峰的官方网站-Git教程]  
 **Mr. Lei：**  [Wine93]  
