@@ -105,6 +105,8 @@ if you encounter `/usr/bin/dpkg returned an error code (1)`， see [Mysql_Solver
 
 [廖雪峰的官方网站-Git教程]: http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000
 
+[在线图表制作]: http://charts.udpwork.com/
+
 
 
 
