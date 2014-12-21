@@ -25,7 +25,7 @@ Maintain by [Wine93] and [Lisz].
     * [Github](#github)  
 * [Others](#markdown)  
     * [Markdown](#markdown)
-    * [Regex](#Regex)
+    * [Regex](#regex)
 * [Tools](#onlie-charting)  
     * [Onlie Charting](#onlie-charting)  
 
@@ -72,10 +72,10 @@ if you encounter `/usr/bin/dpkg returned an error code (1)`， see [Mysql_Solver
 
 ## Regex
 `Top1`
-**Share: ** [正则表达式30分钟入门教程]
-**Share: ** [正则表达式在线测试器]
-**Mr. Lei: ** [Lisz]
-**Evaluate: **
+**Share： ** [正则表达式30分钟入门教程]
+**Share：** [正则表达式在线测试器]
+**Mr. Lei： ** [Lisz]
+**Evaluate： **
 
 ## Github
 `Top1`  
