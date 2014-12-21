@@ -12,7 +12,7 @@
 
 ## Version & Author
 Easy-Learning Beta, released on 8 December 2014.  
-Maintain by [Wine93] and [Li shaozhe].
+Maintain by [Wine93] and [Lisz].
 
 ## Table of Contents
 * [Programming Languge](#python)  
@@ -24,7 +24,8 @@ Maintain by [Wine93] and [Li shaozhe].
 * [System](#github)
     * [Github](#github)  
 * [Others](#markdown)  
-    * [Markdown](#markdown)  
+    * [Markdown](#markdown)
+    * [Regex](#Regex)
 * [Tools](#onlie-charting)  
     * [Onlie Charting](#onlie-charting)  
 
@@ -69,6 +70,12 @@ if you encounter `/usr/bin/dpkg returned an error code (1)`， see [Mysql_Solver
 
 [Back to TOC](#table-of-contents)
 
+## Regex
+`Top1`
+**Share: ** [正则表达式30分钟入门教程]
+**Share: ** [正则表达式在线测试器]
+**Mr. Lei: ** [Lisz]
+**Evaluate: **
 
 ## Github
 `Top1`  
@@ -91,7 +98,7 @@ if you encounter `/usr/bin/dpkg returned an error code (1)`， see [Mysql_Solver
 
 [Wine93]: https://github.com/Wine93 
 
-[Li shaozhe]: https://github.com/lishaozhe01
+[Lisz]: https://github.com/lishaozhe01
 
 [廖雪峰的官方网站-Python教程]: http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000
 
@@ -102,6 +109,10 @@ if you encounter `/usr/bin/dpkg returned an error code (1)`， see [Mysql_Solver
 [Mysql_Solver]: http://www.code06.com/system/dongwuming/30304.html
 
 [Onlie Markdown Editor - dillinger.io]: http://dillinger.io/#onlie-charting
+
+[正则表达式30分钟入门教程]: http://www.jb51.net/tools/zhengze.html
+
+[正则表达式在线测试器]: http://regexpal.com
 
 [廖雪峰的官方网站-Git教程]: http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000
 
