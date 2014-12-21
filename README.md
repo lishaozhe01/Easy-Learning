@@ -71,11 +71,11 @@ if you encounter `/usr/bin/dpkg returned an error code (1)`， see [Mysql_Solver
 [Back to TOC](#table-of-contents)
 
 ## Regex
-`Top1`
+`Top1`  
 **Share： ** [正则表达式30分钟入门教程]  
 **Share：** [正则表达式在线测试器]  
-**Mr. Lei： ** [Lisz]  
-**Evaluate： **  
+**Mr. Lei：** [Lisz]  
+**Evaluate：**  
 
 [Back to TOC](#table-of-contents)
 
