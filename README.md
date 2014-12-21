@@ -72,7 +72,7 @@ if you encounter `/usr/bin/dpkg returned an error code (1)`， see [Mysql_Solver
 
 ## Regex
 `Top1`  
-**Share： ** [正则表达式30分钟入门教程]  
+**Share：** [正则表达式30分钟入门教程]  
 **Share：** [正则表达式在线测试器]  
 **Mr. Lei：** [Lisz]  
 **Evaluate：**  
